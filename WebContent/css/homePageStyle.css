@@ -1,0 +1,8 @@
+@CHARSET "windows-1255";
+
+#main
+{
+	font-family: "Comic Sans MS";
+	text-align: center;
+	border: thick;
+}

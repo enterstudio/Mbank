@@ -1,0 +1,23 @@
+
+.loginDiv {width:400px; height:300px; margin-left: auto;	margin-right: auto;}
+
+.formLogo {width:100px; height:100px; content:url("../images/clientLogo.jpg") 0 0px;
+		 		margin-left: auto;	margin-right: auto;}
+
+.handkshake {width:400px; height:270px; background:url("../images/BankingBacround6.jpg") 0 0px;
+		 	margin-left: auto;	margin-right: auto;}
+
+.header
+{
+text-align: center;
+background-color: white;
+color: blue;	
+font-family: "Comic Sans MS";
+text-shadow: -4px 4px 3px #999;
+}
+
+img 
+{
+  float: right;
+  margin: 0 0 1em 1em;
+}

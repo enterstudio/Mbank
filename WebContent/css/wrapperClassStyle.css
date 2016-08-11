@@ -1,0 +1,105 @@
+ul#menu 
+{
+      padding: 0;
+}
+
+ul#menu li 
+{
+    display: inline;
+    	
+}
+
+ul#menu li a 
+{
+    background-color: #8080ff;
+    color: white;
+    padding: 2px 14px;
+    text-decoration: none;
+    border-radius: 2px 500px 2px 2px;
+   
+}
+
+ul#menu li a:hover 
+{
+    background-color: #808080;
+}
+
+
+#header 
+{
+    background-color:#8080ff;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+img#headerPic
+{
+	width:115px;
+	height:115px;
+	float: left;
+}
+img#headerLogout
+{
+	width:115px;
+	height:115px;
+	float: right;
+}
+
+#nav {
+    line-height:30px;
+    background-color:#c0c0c0;
+    height:auto;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+#details {
+	font-size : 20px;
+	font-weight: bold;
+    line-height:30px;
+    background-color:#808080;
+    height:350px;
+    width:200px;
+    float:right;
+    padding:5px;	      
+}
+
+label#accountDet
+{
+	font-weight: bolder;
+	color: #e6d160;	
+	font-size: 16px;
+}
+
+table, td, th {
+	border : 4px;
+	margin : 4px;
+	padding: 4px;
+    border: 2px solid #8080ff;
+    text-align: center;
+}
+
+th {
+    background-color: #8080ff;
+    color: white;
+}
+
+.scrollIt
+{
+	overflow:scroll;
+    height:350px;
+}
+

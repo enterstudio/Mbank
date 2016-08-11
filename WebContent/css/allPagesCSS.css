@@ -1,0 +1,62 @@
+@CHARSET "windows-1255";
+
+.mainStyle
+{
+	text-align: center;
+	font-weight: bold;
+	font-family: "arial";
+}
+img
+{
+	width:250px;
+	height:250px;
+	float:left;
+}
+img#headerPic
+{
+	width:115px;
+	height:115px;
+}
+img#headerLogout
+{
+	width:115px;
+	height:115px;
+}
+
+
+.form
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 40;
+}
+.buttons
+{
+    background-color: #8080ff;
+    color: white;
+    width: 140px;
+    height: 50px;
+}
+legend
+ {
+	font-family: "Comic Sans MS";
+	font-weight: bolder;
+	font-size: 22px;
+	color: 	#8080ff;
+}
+fieldset,select ,label,input
+{
+	font-weight: bold;
+	font-size: 14px;	
+}
+.checkBox
+{
+	height: 15px;
+	width: 15px;
+	background-color: #8080ff;
+	color: 	#8080ff;
+}
+p.message
+{
+	color: red;
+}
